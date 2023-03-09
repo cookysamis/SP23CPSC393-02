@@ -4,7 +4,8 @@
 	c. sangkim@chapman.edu
 	d. CPSC393-02
 2. Homework 1
-3. HW1.pdf
+3. Sangyoon_Kim_HW1 (1).ipynb
+   Sangyoon_Kim_HW1 (1).pdf
    README.txt
 
 5. Sources: Lecture
